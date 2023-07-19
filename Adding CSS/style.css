@@ -1,0 +1,12 @@
+.Green {
+    color: green;
+}
+.Red{
+    color:red
+}
+.Inline{
+    display: inline;
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+}
